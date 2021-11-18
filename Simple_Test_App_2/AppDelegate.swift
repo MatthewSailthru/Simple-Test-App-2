@@ -6,14 +6,16 @@
 //
 
 import UIKit
+import SailthruMobile
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
-
-
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        
+        SailthruMobile().startEngine("SDK_Key_Goes_Here", with: .full)
+        
         return true
     }
 
