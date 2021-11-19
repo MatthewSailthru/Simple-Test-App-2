@@ -17,6 +17,7 @@
 		A791C3872746C7E100E5C292 /* BasicListStreamTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A791C3852746C7D200E5C292 /* BasicListStreamTableViewCell.swift */; };
 		A791C38A2746CAA600E5C292 /* ScreenSizeHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = A791C3892746CAA600E5C292 /* ScreenSizeHelper.swift */; };
 		A791C38D2746D53D00E5C292 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A791C38C2746D53D00E5C292 /* SceneDelegate.swift */; };
+		A791C38E2746F7DB00E5C292 /* Pods-Simple_Test_App_2.debug.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = AA21891EB8A7C75F24A63912 /* Pods-Simple_Test_App_2.debug.xcconfig */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -205,6 +206,7 @@
 			files = (
 				A791C3792746C21700E5C292 /* LaunchScreen.storyboard in Resources */,
 				A791C3762746C21700E5C292 /* Assets.xcassets in Resources */,
+				A791C38E2746F7DB00E5C292 /* Pods-Simple_Test_App_2.debug.xcconfig in Resources */,
 				A791C3742746C21600E5C292 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
